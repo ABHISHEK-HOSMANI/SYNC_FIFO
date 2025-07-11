@@ -1,1 +1,1 @@
-# SYNC_FIFO
+A Synchronous FIFO (First-In-First-Out) is a digital circuit used for temporary data storage where data is written and read in the same order, synchronized to a single clock signal. It is commonly used in digital systems for buffering, flow control, and rate matching between two modules operating at the same clock frequency.
